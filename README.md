@@ -2,8 +2,8 @@
 
 ## Kardinalitas
 
-- Payment.java mempunyai relasi generalization dengan Cash.java, Check.java dan Credit.java
-- Payment.java mempunyai relasi asosiasi kardinalitas 1 or more dengan Order.java
+#### Payment.java mempunyai relasi generalization dengan Cash.java, Check.java dan Credit.java
+#### Payment.java mempunyai relasi asosiasi kardinalitas 1 or more dengan Order.java
 
 
 * Order.java mempunyai kardinalitas exactly one dengan Payment.java
